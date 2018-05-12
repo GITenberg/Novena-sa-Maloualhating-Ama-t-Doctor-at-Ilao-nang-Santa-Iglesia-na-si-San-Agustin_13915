@@ -1,0 +1,27 @@
+_repo: Novena-sa-Maloualhating-Ama-t-Doctor-at-Ilao-nang-Santa-Iglesia-na-si-San-Agustin_13915
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Serrano, Juan
+    gutenberg_agent_id: '5286'
+    url: http://www.gutenberg.org/2009/agents/5286
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13915'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Augustine, Saint, Bishop of Hippo'
+- !lcsh 'Catholic Church -- Prayers and devotions -- Tagalog'
+- !lcc 'BV'
+- !lcsh 'Novenas'
+title: Novena sa Maloualhating Ama,t, Doctor at Ilao nang Santa Iglesia na si San
+  Agustin
+url: http://www.gutenberg.org/ebooks/13915
